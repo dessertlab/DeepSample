@@ -8,4 +8,4 @@ The folder 'Results_paper' contains the results reported in the paper.
 
 The folder 'dataset' contains the dataset with the models predictions and the auxiliary variables.
 
-CES and SRS implementations are available at Li et al. repo 'https://udacity.com/self-driving-car'
+CES and SRS implementations are available at Li et al. repo 'https://github.com/Lizenan1995/DNNOpAcc'
