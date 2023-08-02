@@ -10,6 +10,6 @@ The folder 'dataset' contains the dataset with the models predictions and the au
 
 CES and SRS implementations are available at Li et al. repo 'https://github.com/Lizenan1995/DNNOpAcc'
 
-The 11 trained models are available at the following link (due to the excessive size): 'omitted for d.b. review'
+The trained models are included in the 'models' folder.
 
 The source code for the classification models is available at Guerriero et al. repo: 'https://github.com/ICOS-OAA/ICOS.git'
