@@ -2,7 +2,7 @@
 
 This repository provides the artifacts for DeepSample execution. 
 The experiments on 9 DNN for classification and 2 DNN for regression can be replicated running the script 'run_DeepSample.sh'.
-A time the experiments are completed, all the results are generated into the 'Results' folder.
+Once the experiments are completed, all the results are generated into the 'Results' folder.
 
 The folder 'Results_paper' contains the results reported in the paper.
 
