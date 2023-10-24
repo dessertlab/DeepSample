@@ -16,6 +16,20 @@ The code has been developed with Eclipse.
 
 ## Other samplers
 CES and SRS implementations are available at Li et al. repo 'https://github.com/Lizenan1995/DNNOpAcc'.
+The results can be replicated by importing out models in that code. 
+In the following, we reported the choosen layers required for CES for each model:
+- A: -2 
+- B: -4
+- C: -2
+- D: -4
+- E: -4
+- F: -2
+- G: -2
+- H: -4
+- I: -4
+- Dave_orig: -3
+- Dave_dropout: -3
+
 
 ## Neural Networks availability
 The trained models are included in the 'models' folder. Model G, Dave_orig and Dave_dropout models are available at 'https://file.io/0405r74sgwqV'.
