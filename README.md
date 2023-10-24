@@ -8,9 +8,9 @@ Once the experiments are completed, all the results are generated in the 'Result
 The folder "DeepSample" contains all the ".jar" files and the source code.
 The source code is organized as follows:
 - The "main" folder contains all the java files for the jar generation.
-- selector.classification contains the source code of the implemented sampling algorithms for classification, plus DeepEST.
-- selector.regression contains the source code of the implemented sampling algorithms for regression, plus DeepEST.
-- utility and utility.regression contains utilities and data structures useful for the selectors.
+- "selector.classification" contains the source code of the implemented sampling algorithms for classification, plus DeepEST.
+- "selector.regression" contains the source code of the implemented sampling algorithms for regression, plus DeepEST.
+- "utility" and "utility.regression" contains utilities and data structures useful for the selectors.
 The code has been developed with Eclipse.
 
 ## Other samplers
