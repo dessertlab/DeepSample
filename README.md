@@ -25,5 +25,6 @@ The source code for the classification models is available at Guerriero et al. r
 ## Paper results
 The folder 'Results_paper' contains the results reported in the paper.
 
-## Dependencies
+## Requirements and Dependencies
+The provided code requires Java 8.
 The "libs" folder contains all the libraries required to run the experiments.
