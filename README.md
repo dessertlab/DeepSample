@@ -18,7 +18,7 @@ The code has been developed with Eclipse.
 CES and SRS implementations are available at Li et al. repo 'https://github.com/Lizenan1995/DNNOpAcc'.
 
 ## Neural Networks availability
-The trained models are included in the 'models' folder.
+The trained models are included in the 'models' folder. Model G, Dave_orig and Dave_dropout models are available at 'https://file.io/0405r74sgwqV'.
 The folder 'dataset' contains the dataset with the predictions and the auxiliary variables for all models.
 The source code for the classification models is available at Guerriero et al. repo: 'https://github.com/ICOS-OAA/ICOS.git'
 
