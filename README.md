@@ -38,6 +38,7 @@ The source code for the classification models is available at Guerriero et al. r
 
 ## Paper results
 The folder 'Results_paper' contains the results reported in the paper.
+A notebook is provided for the practitioners to choose the most suitable sampling technique based on their top3 appearences ('Results_paper/_Discussion/interactive_notebook/summary.ipynb')
 
 ## Requirements and Dependencies
 The provided code requires Java 8.
