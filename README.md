@@ -16,8 +16,12 @@ The code has been developed with Eclipse.
 
 ## Other samplers
 CES and SRS implementations are available at: 'https://github.com/Lizenan1995/DNNOpAcc'.
-The results can be replicated by cloning the repository, and importing and running the files available in the 'CES_SRS' folder of our repository ('crossentropy*.py' files). 
-In the following, we reported the chosen layers required to run CES for each model: 
+The results can be replicated by:
+1. cloning the repository;
+2. importing the models in 'CE method/MNIST/normal';
+3. importing and running in 'CE method/MNIST/normal' the files available in the 'CES_SRS' folder of our repository ('crossentropy*.py' files). 
+
+In the following, we reported the chosen layers (LAY parameter in 'crossentropy*.py') required to run CES for each model: 
 - A: -2 
 - B: -4
 - C: -2
