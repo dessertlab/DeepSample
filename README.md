@@ -1,4 +1,4 @@
-# DeepSample
+# DeepSample 
 
 This repository provides the artifacts for DeepSample execution. 
 The experiments on 9 DNN for classification and 2 DNN for regression can be replicated by running the script 'run_DeepSample.sh'.
